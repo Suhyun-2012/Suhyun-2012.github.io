@@ -1,0 +1,11 @@
+#w{
+font-family: courier;
+color: grey;
+margin-left: 2%;
+font-size: 30px;
+margin-top: 40px;
+}
+
+.se:hover{
+  transform: scale(2);
+}

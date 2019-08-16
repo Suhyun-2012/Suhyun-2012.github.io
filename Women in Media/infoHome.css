@@ -1,0 +1,106 @@
+/*originally buttons page for Info Homepage*/
+#infoNav{
+  font-family: Courier;
+  /*font-size: 50px;*/
+  color: grey;
+  font-size: 40px;
+}
+
+.topnav{
+  margin-left: -10px;
+  margin-top: -10px;
+  margin-right: -10px;
+  background-color: white;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-bottom: 0px;
+  height: 60px;
+}
+
+.topnav a {
+  color: black;
+  text-align: center;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+  text-decoration: none;
+  padding-top: 50px;
+  font-size: 17px;
+  font-family: Courier;
+   line-height: 50px;
+}
+
+.n{
+  text-decoration: none;
+  font-family: Courier;
+  font-size: 30px;
+  color: grey;
+}
+
+li {
+  display: inline;
+  padding-right: 10px;
+}
+ul{
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  list-style-type: none;
+  height: 100px;
+}
+#H{
+  background-color: #E6E6FA;
+}
+#H:hover {
+  background-color:  #bfbff2;
+}
+
+#A{
+  background-color:#FFE4E1;
+}
+#A:hover{
+  background-color: #ffbab3;
+}
+
+#I{
+   background-color:/*#e6ffe6;*/ #9dfb9d;
+}
+#I:hover{
+  background-color:#9dfb9d;
+}
+
+#R{
+   background-color:#ecdfec;  /*#cfafcf;*/
+}
+#R:hover{
+  background-color:#cfafcf;
+}
+/*background of page*/
+body {
+ background-image: url(file:///C:/Users/Vanilla/Downloads/bWI.PNG);
+ background-size: 100% 200%;
+}
+
+.britney:hover {
+  transform: scale(2);
+}
+.vir{
+  align: center;
+}
+.rom:hover {
+  transform: scale(2);
+}
+.dam:hover {
+  transform: scale(1.5);
+}
+.mar:hover {
+  transform: scale(1.4);
+}
+
+/*menu page 2 buttons design*/
+/*.buttunz{
+  justify-content: center;
+  background-color: #4CAF50;
+}*/

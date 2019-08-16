@@ -1,0 +1,25 @@
+.boox{
+  padding-top: 10px;
+  padding-left:20px;
+  padding-bottom:10px;
+}
+
+img{
+  margin-bottom: 20px;
+}
+
+.booxhead{
+  font-family: Courier;
+  font-size: 25px;
+  color: grey;
+}
+
+/*.fav{
+  font-family: Courier;
+  color: grey;
+}*/
+
+.musich{
+  width:180;
+   height:210;
+}

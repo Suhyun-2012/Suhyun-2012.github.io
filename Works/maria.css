@@ -1,0 +1,37 @@
+body{
+  font-style: ;
+
+  line-height: 40px
+}
+h1 {
+  color: pink;
+}
+#cath{
+  width: 100%;
+  margin-left:0px;
+  margin-right:0px;
+  height: 700px;
+  border-image: 10 round, pink;
+  padding-top: 40px
+}
+
+div{
+  margin-right: 300px;
+  margin-left: 300px;
+}
+
+#divo{
+  float: left;
+  width: 300px;
+  height: 200px;
+  padding-left: 30px;
+  padding-right:30px;
+  padding-top: 40px
+}
+#sumPal{
+  float: center;
+  width: 300px;
+  height: 200px;
+  padding-left: 10px;
+  padding-top:40px
+}
